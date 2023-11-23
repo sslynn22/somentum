@@ -54,4 +54,3 @@ function displayGreeting(argName){
       //h1을 보여준다.
       displayGreeting(lsUserName);
   }
-  
