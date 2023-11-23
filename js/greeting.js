@@ -1,8 +1,3 @@
-/*alert("안녕하세요!");
-
-console.log("방문을 환영합니다:)");*/
-
-
 const frmLogin = document.querySelector("#frmLogin");
 const inputLogin = document.querySelector("#frmLogin input");
 const greeting = document.getElementById("greeting");
