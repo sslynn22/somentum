@@ -8,7 +8,7 @@
  * document에 있는 id가 frmLogin인 form.
  * input box와 logIn 버튼으로 구성
  */
-const frmLogin = document.querySelector("#frmLogin");
+const frmLogin = document.querySelector("#frmLogin1");
 
 /**
  * document에 있는 input box.
