@@ -32,6 +32,7 @@ function onClickLoginBtn(event){
  * h1을 디스플레이하는 함수.
  * h1요소 안에 인사말 텍스트를 추가하고, 히든 클래스 제거
  */
+
 function displayGreeting(argName){
     greeting.innerText = `hello ${argName}`;
     greeting.classList.remove(HIDDEN_CLASSNAME);
